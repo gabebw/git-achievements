@@ -2,6 +2,7 @@
 <title>Gabe Berke-Williams's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Archivist (Level 2)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Goldsmith (Level 1)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Gardner (Level 2)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
-<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 </channel></rss>
